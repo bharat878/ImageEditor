@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ImageEditor</string>
+    <string name="choose">Choose</string>
+    <string name="horizontal_flip">Horizontal Flip</string>
+    <string name="veritical_flip">Veritical Flip</string>
+    <string name="reset">Reset</string>
 </resources>
